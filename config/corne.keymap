@@ -55,7 +55,7 @@
    &trans   &kp Q      &kp W      &kp F      &kp P        &kp B      &kp J     &kp L        &kp U      &kp Y      &kp SEMI   &trans       
    &trans   &hm LCTL A &hm LALT R &hm LGUI S &hm LSHFT T  &kp G      &kp M     &hm RSHFT N  &hm RGUI E &hm RALT I &hm RCTL O &trans       
    &trans   &kp Z      &kp X      &kp C      &kp D        &kp V      &kp K     &kp H        &kp COMMA  &kp DOT    &kp FSLH   &trans      
-                                  &trans     &hl 1 TAB    &kp BSPC   &kp SPACE &hl 2 RET    &trans
+                                  &trans     &lt 1 TAB    &kp BSPC   &kp SPACE &lt 2 RET    &trans
                         >;
                 };
 
